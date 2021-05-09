@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Learning Curve Bold;
+    src: url(../fonts/learning_curve_bold_ot_tt.ttf);
+    src: url(../fonts/learning_curve_dashed_ot_tt.ttf);
+    src: url(../fonts/learning_curve_dings_ot_tt.ttf);
+    src: url(../learning_curve_regular_ot_tt.ttf);
+}
+@font-face {
+    font-family: Brandon Grotesque Regular;
+    src: url(../fonts/Brandon_reg.otf);
+}
+@font-face {
+    font-family: Kazimir Italic;
+    src: url(../fonts/Kazimir-Italic.otf);
+}

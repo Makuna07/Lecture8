@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+}
+div a {
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    font-family: Brandon Grotesque Regular;
+    font-size: 18px;
+    width: 80%;
+    justify-content: space-between;
+    margin-top: 55px;
+}
+ul a{
+    color: #7F7F7F;
+}
+.top{
+    display: flex;
+    justify-content: space-between ;
+}
+.logo{
+    font-family: Learning Curve Bold;
+    font-size: 70px;
+    margin:20px;
+    color: #36413E;
+}
+.menu {
+    width: 60%;
+}
+.img{
+    width: 16px;
+    height: 16px;
+    display: flex;
+    margin-top: 55px;
+    width: 10%;
+    justify-content: space-between;
+    padding-right: 30px;
+}
+.search{
+    margin-right: 65px;
+}
+.banner{
+    width: 100%;
+    padding-top: 20px;
+}
+.over{
+    font-size: 40px;
+    position: absolute;
+    top:70%;
+    left: 50%;
+    background-color: white;
+    padding:90px 350px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family: Kazimir Italic;
+}
+.header-text{
+    position: relative;
+}
+.book{
+    margin: 110px 0 110px 0;
+}
+.center{
+    display: flex;
+    margin:auto;
+    padding-top: 100px;
+    background-color: #306B34;
+}
+.flex{
+    display: flex;
+    max-width: 1200px;
+	margin: auto;
+}
+.text{
+    padding-left: 30px;
+    margin-top: 70px;
+}
+.our{
+    padding-bottom: 10px;
+}
+.last-text{
+    text-align: center;
+    font-family: Kazimir Italic;
+}
+.clik{
+    background-color: black;
+    padding: 20px 40px;
+    width: 7%;
+    text-align: center;
+    margin: auto;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+.clik a{
+    color: white;
+}
+.end{
+    display: flex;
+    background-color: #306B34;
+    height: 80px;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.last-menu{
+    margin-bottom: 45px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+    width: 30%;
+}
+.last-menu a{
+    color: white;
+}
